@@ -27,9 +27,9 @@ Minimal dev dependencies included in `requirements.txt`:
 
 # How to Run Locally
 1. Clone the repository or download the files directly.
+   '''bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-
    ```
 3. Create a virtual environment and install:
    ```bash
