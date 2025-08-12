@@ -26,6 +26,7 @@ Minimal dev dependencies included in `requirements.txt`:
 
 
 # How to Run Locally
+
 1. Clone the repository or download the files directly.
   ```bash
    git clone https://github.com/SanyaGianani/Sentiment_Training.git
