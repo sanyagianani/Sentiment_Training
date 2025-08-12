@@ -44,16 +44,10 @@ Minimal dev dependencies included in `requirements.txt`:
    ```
 4. Open `Sentiment_Training.ipynb` and run the cells.
 
-## ▶️ How to Push to GitHub (quick)
+# How to Push to GitHub 
 - Option A (web): Create a repo on GitHub, then drag-and-drop the zip contents or individual files into the repo via **Add file → Upload files**.
 - Option B (git): See the instructions below in the companion `HOW_TO_PUSH.md` or follow the steps in the project homepage.
 
-## ⚠️ Notes
-- If your dataset or model files are large (>100 MB), consider storing them outside the repo or use Git LFS.
-- Clean the notebook outputs if you prefer smaller file size: in Colab use `Edit → Clear all outputs` before saving.
 
-## 📜 License
-MIT License — feel free to use and adapt.
-
-## Author
-Your Name — update the `README.md` with your name and GitHub link.
+# Author
+Sanya Gianani
