@@ -1,6 +1,6 @@
 # Sentiment Training Model
 
-This repository contains a Jupyter Notebook for training and evaluating a sentiment analysis model on financial headlines.
+This repository contains a Jupyter Notebook for training and evaluating a sentiment analysis model on financial news headlines.
 
 # Overview
 The notebook `Sentiment_Training.ipynb` walks through:
@@ -26,23 +26,23 @@ Minimal dev dependencies included in `requirements.txt`:
 
 
 # How to Run Locally
-1. Unzip the project and `cd` into the folder:
-   ```bash
-   unzip Sentiment-Training.zip -d .
-   cd Sentiment-Training
+1. Clone the repository or download the files directly.
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
    ```
-2. Create a virtual environment and install:
+3. Create a virtual environment and install:
    ```bash
    python -m venv .venv
    source .venv/bin/activate    # macOS/Linux
    .\.venv\Scripts\activate  # Windows PowerShell
    pip install -r requirements.txt
    ```
-3. Launch Jupyter:
+4. Launch Jupyter:
    ```bash
    jupyter notebook
    ```
-4. Open `Sentiment_Training.ipynb` and run the cells.
+5. Open `Sentiment_Training.ipynb` and run the cells.
 
 # How to Push to GitHub 
 - Option A (web): Create a repo on GitHub, then drag-and-drop the zip contents or individual files into the repo via **Add file → Upload files**.
