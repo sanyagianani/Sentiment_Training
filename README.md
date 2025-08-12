@@ -27,19 +27,23 @@ Minimal dev dependencies included in `requirements.txt`:
 
 # How to Run Locally
 1. Clone the repository or download the files directly.
- ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-3. Create a virtual environment and install:
+  ```bash
+ git clone https://github.com/your-username/your-repo-name.git
+ cd your-repo-name
+   ```
+2. Create a virtual environment and install:
    ```bash
    python -m venv .venv
    source .venv/bin/activate    # macOS/Linux
    .\.venv\Scripts\activate  # Windows PowerShell
    pip install -r requirements.txt
    ```
+3. Install Dependencies
+   '''bash
+  pip install -r requirements.txt
+
 4. Launch Jupyter:
-   ```bash
+     ```bash
    jupyter notebook
    ```
 5. Open `Sentiment_Training.ipynb` and run the cells.
